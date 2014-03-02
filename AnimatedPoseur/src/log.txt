@@ -1,0 +1,113 @@
+commit 4b914e5bfdbafc20be1a36e3a36d201ab306057f
+Author: Yunlong Zhang <johnnyzh82@gmail.com>
+Date:   Sun Dec 9 22:54:30 2012 -0500
+
+    COMMIT FOR GIT LOG
+
+commit dd24dc35e93a45d1465a44298d97bc9b7055bca4
+Author: Yunlong Zhang <johnnyzh82@gmail.com>
+Date:   Sun Dec 9 22:45:48 2012 -0500
+
+    FINAL FIX OF HW 6 FIX SOME PROBLEM OF  RENDERING PROBLEM AND THIS IS IT!
+
+commit 7617c115dc9611851738c32881099ef3ad07f6ad
+Author: Yunlong Zhang <johnnyzh82@gmail.com>
+Date:   Sun Dec 9 17:20:10 2012 -0500
+
+    fix some small exception problems and add lots of java doc changes some icons and pretty much hw6 is done
+
+commit 635612bb8c8ec9b79bcaa78d14e34b574da64828
+Author: Yunlong Zhang <johnnyzh82@gmail.com>
+Date:   Sat Dec 8 04:12:28 2012 -0500
+
+    DONE FOR HW6, FEELING SO GOOD ~
+
+commit b586d2db6c51bfe1aa2100110b3162605541ed53
+Author: Yunlong Zhang <johnnyzh82@gmail.com>
+Date:   Sat Dec 8 01:17:10 2012 -0500
+
+    This is the version that I need to change the single image view to image sequence view and after that I need to finish some small bugs of program and add java doc , homework 6 is almost there
+
+commit 13303ed0eaeb659df2ccb22360d15cafcb957512
+Author: Yunlong Zhang <johnnyzh82@gmail.com>
+Date:   Thu Dec 6 18:50:31 2012 -0500
+
+    some changes
+
+commit 9e8115383fa625a67989336237e6cd0c773dfaf9
+Author: Yunlong Zhang <johnnyzh82@gmail.com>
+Date:   Thu Dec 6 02:10:20 2012 -0500
+
+    ADD SCENE RENDERER, STILL NEED WORK ON FILE CONTROLS AND SO ON
+
+commit 42dcf6454731ca9199987a7a6ab1509f277db517
+Author: Yunlong Zhang <johnnyzh82@gmail.com>
+Date:   Wed Dec 5 03:21:25 2012 -0500
+
+    finish some edition of pose controls most of pose controls worked properly.  Still need make sure all painting export and sprite viewer work correctly. After finish this project, we need some time to check all possible errors and update the version of this application
+
+commit 8005da9644178dec2dbd83f49049a91c97117090
+Author: Yunlong Zhang <johnnyzh82@gmail.com>
+Date:   Sun Dec 2 17:34:45 2012 -0500
+
+    Finish all pose controls , but I still need to fix all bugs and register all handlers. Next step is use hw 2 's code and add several controls of save and export images and poses. Finally we need put viewer into work and test our whole program.
+
+commit b4958f98a126474d0a0585e5e4e29f3989f078c8
+Author: Yunlong Zhang <johnnyzh82@gmail.com>
+Date:   Sat Dec 1 02:13:22 2012 -0500
+
+    add all handler of animation state, still need fix the bug . Current error unchecked
+
+commit 26d0ae1ab775420562b0af2c5e9c5bf2ada64e83
+Author: Yunlong Zhang <johnnyzh82@gmail.com>
+Date:   Fri Nov 30 21:10:25 2012 -0500
+
+    Finish part of hw6, omg, I m tired..
+
+commit 6923086720fc12b50a27cb1f8aa32e95498225a6
+Author: Yunlong Zhang <johnnyzh82@gmail.com>
+Date:   Tue Nov 27 03:14:52 2012 -0500
+
+    end of hw5
+
+commit 28dbd8123cbdc577bd05660979f90b9f5169cde0
+Author: Yunlong Zhang <johnnyzh82@gmail.com>
+Date:   Sun Nov 25 02:06:53 2012 -0500
+
+    add renderer panel
+
+commit 09b09d0953b991e7ff876c0cd065a9f84f5021fa
+Author: Yunlong Zhang <johnnyzh82@gmail.com>
+Date:   Sun Nov 25 00:17:59 2012 -0500
+
+    fix some java doc
+
+commit 783efab9b3b3e2eebd56569cc3bd80964d3f4e99
+Author: Yunlong Zhang <johnnyzh82@gmail.com>
+Date:   Sat Nov 24 01:56:29 2012 -0500
+
+    ADD JAVADOC FOR SOME HANDLER
+
+commit 6295d5b7caaf0b7a4c284e5cb07c1d9f7fc3a7ed
+Author: Yunlong Zhang <johnnyzh82@gmail.com>
+Date:   Sat Nov 24 00:08:36 2012 -0500
+
+    Third commit, fix some panels, need more details, and java doc hasn't been written yet.
+
+commit fad646368e518d3794ee6d804bdb5018d4ba1155
+Author: Yunlong Zhang <johnnyzh82@gmail.com>
+Date:   Thu Nov 22 23:27:55 2012 -0500
+
+    some sort of change
+
+commit d8b3a8f2738e4d06912ecb641a7167c25966cf13
+Author: Yunlong Zhang <johnnyzh82@gmail.com>
+Date:   Wed Nov 21 23:40:52 2012 -0500
+
+    Second commit that constructing GUI
+
+commit 234dfe1e1cd695d3ec53a3a4dcb22a1b3c2a0d6c
+Author: Yunlong Zhang <johnnyzh82@gmail.com>
+Date:   Wed Nov 21 18:08:48 2012 -0500
+
+    First commit , start of program hw 5

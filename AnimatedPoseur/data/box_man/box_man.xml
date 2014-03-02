@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<sprite_type>
+     <width>128</width>
+     <height>128</height>
+     <images_list>
+          <image_file file_name="box_man_IDLE_1.png" id="1"/>
+          <image_file file_name="box_man_IDLE_2.png" id="2"/>
+          <image_file file_name="box_man_IDLE_3.png" id="3"/>
+          <image_file file_name="box_man_IDLE_4.png" id="4"/>
+          <image_file file_name="box_man_IDLE_5.png" id="5"/>
+          <image_file file_name="box_man_WALKING_DOWN_1.png" id="6"/>
+          <image_file file_name="box_man_WALKING_DOWN_2.png" id="7"/>
+          <image_file file_name="box_man_WALKING_DOWN_3.png" id="8"/>
+          <image_file file_name="box_man_WALKING_DOWN_4.png" id="9"/>
+          <image_file file_name="box_man_WALKING_DOWN_5.png" id="10"/>
+          <image_file file_name="box_man_WALKING_LEFT_1.png" id="11"/>
+          <image_file file_name="box_man_WALKING_LEFT_2.png" id="12"/>
+          <image_file file_name="box_man_WALKING_LEFT_3.png" id="13"/>
+          <image_file file_name="box_man_WALKING_LEFT_4.png" id="14"/>
+          <image_file file_name="box_man_WALKING_LEFT_5.png" id="15"/>
+          <image_file file_name="box_man_WALKING_RIGHT_1.png" id="16"/>
+          <image_file file_name="box_man_WALKING_RIGHT_2.png" id="17"/>
+          <image_file file_name="box_man_WALKING_RIGHT_3.png" id="18"/>
+          <image_file file_name="box_man_WALKING_RIGHT_4.png" id="19"/>
+          <image_file file_name="box_man_WALKING_RIGHT_5.png" id="20"/>
+          <image_file file_name="box_man_WALKING_UP_1.png" id="21"/>
+          <image_file file_name="box_man_WALKING_UP_2.png" id="22"/>
+          <image_file file_name="box_man_WALKING_UP_3.png" id="23"/>
+          <image_file file_name="box_man_WALKING_UP_4.png" id="24"/>
+          <image_file file_name="box_man_WALKING_UP_5.png" id="25"/>
+     </images_list>
+     <animations_list>
+          <animation_state>
+               <state>IDLE</state>
+               <animation_sequence>
+                    <pose duration="6" image_id="3"/>
+                    <pose duration="1" image_id="2"/>
+                    <pose duration="3" image_id="1"/>
+                    <pose duration="1" image_id="2"/>
+                    <pose duration="5" image_id="3"/>
+                    <pose duration="2" image_id="4"/>
+                    <pose duration="5" image_id="5"/>
+                    <pose duration="3" image_id="4"/>
+                    <pose duration="4" image_id="3"/>
+                    <pose duration="1" image_id="4"/>
+                    <pose duration="5" image_id="5"/>
+                    <pose duration="1" image_id="4"/>
+                    <pose duration="2" image_id="3"/>
+               </animation_sequence>
+          </animation_state>
+          <animation_state>
+               <state>WALKING_DOWN</state>
+               <animation_sequence>
+                    <pose duration="3" image_id="8"/>
+                    <pose duration="1" image_id="7"/>
+                    <pose duration="2" image_id="6"/>
+                    <pose duration="1" image_id="7"/>
+                    <pose duration="3" image_id="8"/>
+                    <pose duration="1" image_id="9"/>
+                    <pose duration="2" image_id="10"/>
+                    <pose duration="1" image_id="9"/>
+               </animation_sequence>
+          </animation_state>
+          <animation_state>
+               <state>WALKING_LEFT</state>
+               <animation_sequence>
+                    <pose duration="3" image_id="13"/>
+                    <pose duration="1" image_id="12"/>
+                    <pose duration="2" image_id="11"/>
+                    <pose duration="1" image_id="12"/>
+                    <pose duration="3" image_id="13"/>
+                    <pose duration="1" image_id="14"/>
+                    <pose duration="2" image_id="15"/>
+                    <pose duration="1" image_id="14"/>
+               </animation_sequence>
+          </animation_state>
+          <animation_state>
+               <state>WALKING_RIGHT</state>
+               <animation_sequence>
+                    <pose duration="3" image_id="18"/>
+                    <pose duration="1" image_id="17"/>
+                    <pose duration="2" image_id="16"/>
+                    <pose duration="1" image_id="17"/>
+                    <pose duration="3" image_id="18"/>
+                    <pose duration="1" image_id="19"/>
+                    <pose duration="2" image_id="20"/>
+                    <pose duration="1" image_id="19"/>
+               </animation_sequence>
+          </animation_state>
+          <animation_state>
+               <state>WALKING_UP</state>
+               <animation_sequence>
+                    <pose duration="3" image_id="23"/>
+                    <pose duration="1" image_id="22"/>
+                    <pose duration="2" image_id="21"/>
+                    <pose duration="1" image_id="22"/>
+                    <pose duration="3" image_id="23"/>
+                    <pose duration="1" image_id="24"/>
+                    <pose duration="2" image_id="25"/>
+                    <pose duration="1" image_id="24"/>
+               </animation_sequence>
+          </animation_state>
+     </animations_list>
+</sprite_type>
